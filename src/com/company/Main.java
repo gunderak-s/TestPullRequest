@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Добрий день");
         System.out.println("Добрий вечір");
+        System.out.println("Добрий ранок");
         int i=7;
     }
 }
